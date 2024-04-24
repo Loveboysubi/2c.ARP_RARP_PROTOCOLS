@@ -1,4 +1,5 @@
-## Register No: 212222110032
+## Register No: 212223230220
+## name : Subishesh P
 # EX 2c.SIMULATING ARP /RARP PROTOCOLS
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
